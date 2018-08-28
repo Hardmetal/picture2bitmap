@@ -1,0 +1,1 @@
+Program for convert color images to white-black bitmap
